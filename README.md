@@ -1,5 +1,6 @@
-windows 
-xamp 
+##windows 
+###xamp 
+
 phpmyadmin create db 4 rows id (primary) temperature humadity and date of mesurment  
 sql code in repository
 
