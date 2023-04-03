@@ -1,5 +1,8 @@
 ![Project_foto](https://user-images.githubusercontent.com/79656363/227808227-eaae977f-4d9d-4b8b-b939-f4b1345ac043.png)
 
+I'm using microprocessor esp32 lilgy t-call powered by two li-ion 18650 mAh battery using Regulator 5V to power sensor DHT , LCD 2x16 i microprocesor 
+LCD is connect to microprocessor using I2C magistral
+
 ## windows 
 ### xamp 
 
